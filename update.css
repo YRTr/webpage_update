@@ -1,0 +1,16 @@
+﻿body {
+  text-align : center;
+  position : relative;
+}
+button {
+  background : #5F9EA0;
+  font-size: 1.2rem;
+  font-family: 'Source Sans Pro';
+}
+h1 {
+  font-family: 'Titillium Web';
+  font-size : 5rem;
+  margin-top : 0px;
+}
+
+
